@@ -1,0 +1,8 @@
+{
+  "name": "dynamic-reaction",
+  "version": "1.0.0",
+  "description": "a new way to react",
+  "main": "index.js",
+  "author": "nsarafa",
+  "license": "MIT"
+}
